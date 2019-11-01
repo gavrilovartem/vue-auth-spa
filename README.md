@@ -16,4 +16,6 @@ npm run serve
 npm run build
 ```
 
-
+### Данные для теста
+student/sdemo
+teacher/tdemo
