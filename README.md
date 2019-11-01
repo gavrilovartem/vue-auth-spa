@@ -1,24 +1,20 @@
-# hello-world5
+# VueAuthSPA
+Автор - Гаврилов Артем.
+В разделах Project setup и 
 
-## Project setup
+## Установка
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Компиляция и горячая перезагрузка для разработки
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Компиляция и минимизация для продуктива
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
